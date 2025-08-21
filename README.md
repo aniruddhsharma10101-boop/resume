@@ -32,7 +32,8 @@ PDF Generation: jsPDF / html2pdf.js (or whichever library you used)
 
 Clone this repository:
 
-git clone https://github.com/yourusername/resume-builder.git
+git clone https://github.com/aniruddhsharma10101-boop
+/resume-builder.git
 cd resume-builder
 
 
